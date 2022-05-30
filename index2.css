@@ -1,0 +1,78 @@
+.pagination{
+	justify-content: center;
+}
+
+.photo{
+	background: white;
+	width: 73%;
+	
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	padding-top: 10px;
+	
+	margin: auto;
+}
+.container h2{
+	padding: 9px;
+	margin: 0;
+}
+div{
+	box-sizing: border-box;
+   
+    
+}
+.container p{
+	padding: 8px;
+	margin: 0;
+}
+.container img{
+	
+	width: 50%;
+
+}
+.photo .photo-2 div:first-child{
+	display: inline-block;
+	width: 100%;
+	
+}
+.photo .photo-2 div:last-child{
+	display: inline-block;
+	
+	width: 20%;
+}
+#img2{
+	display: flex;
+	justify-content: center;
+}
+#img3{
+	display: flex;
+	justify-content: center;
+}
+#img4{
+	display: flex;
+	justify-content: center;
+}
+#img1{
+	display: flex;
+	justify-content: center;
+    
+}
+.photo-2{
+    display: flex;
+}
+.bi-grid-3x2-gap-fill{
+	color: gray;
+}
+.bi-stop-fill{
+	color: gray;
+}
+.coment{
+	display: flex;
+    justify-content: space-between;
+}
+.bi-heart{
+	padding-right: 18px;
+}

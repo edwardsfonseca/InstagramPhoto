@@ -1,0 +1,27 @@
+.pagination{
+	justify-content: center;
+}
+
+
+
+.container {
+	
+	padding-top: 10px;
+	max-width: 90px;
+	margin: auto;
+}
+.bi-grid-3x2-gap-fill{
+	color: gray;
+}
+.bi-stop-fill{
+	color: gray;
+	border-radius: 20px;
+}
+img{
+	width: 380px;
+	height: 280px;
+	margin-top: 3px;
+}
+iframe{
+	margin-top: 3px;
+}
